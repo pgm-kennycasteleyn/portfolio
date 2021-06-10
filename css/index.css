@@ -57,10 +57,6 @@ body {
   line-height: 1;
 }
 
-.fa-angle-up:before {
-  content: "\f106";
-}
-
 header {
   z-index: 999;
   position: fixed;
