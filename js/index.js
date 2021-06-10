@@ -5,7 +5,7 @@ window.addEventListener("scroll", function() {
 });
 
 //Making a scroll to top button
-const scrollButton = document.querySelector(".scrollToTop-Btn");
+const scrollButton = document.querySelector(".scrollToTop-arrow");
 
 window.addEventListener("scroll", function() {
   scrollButton.classList.toggle("active", window.scrollY > 500)
