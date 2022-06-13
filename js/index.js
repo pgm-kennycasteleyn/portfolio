@@ -18,7 +18,7 @@ scrollButton.addEventListener("click", () => {
 });
 
 //making a responsive nav menu
-const navMenu = document.querySelector(".hamburger-Butto");
+const navMenu = document.querySelector(".hamburger-Button");
 const navigation = document.querySelector(".navigation");
 const navMenuItems = document.querySelectorAll("navigation a")
 navMenu.addEventListener("click", () => {
