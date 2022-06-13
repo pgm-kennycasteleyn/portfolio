@@ -521,7 +521,7 @@ section {
 }
 
 .skills .content .column-right .skillBar .react::before {
-  width: 15%;
+  width: 5%;
   background-color: #8b0000;
 }
 
