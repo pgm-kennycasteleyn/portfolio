@@ -179,7 +179,6 @@ section {
 }
 
 .main {
-  background: url(../media/juice2.jpg) no-repeat;
   background-color: #000;
   background-size: cover;
   background-position: center;
@@ -189,7 +188,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-evenly;
 }
 
 .main .main-content {
@@ -328,7 +327,7 @@ section {
 }
 
 .about {
-  background-color: #1cbdba;
+  background-color: #fff;
 }
 
 .about .content {
@@ -389,7 +388,7 @@ section {
 }
 
 .projects {
-  background-color: #0099CC;;
+  background-color: #000;;
 }
 
 .projects .content {
@@ -437,7 +436,7 @@ section {
 }
 
 .skills {
-  background-color: #ff9900;
+  background-color: #fff;
 }
 
 .skills .content {
@@ -533,7 +532,7 @@ section {
 }
 
 .jobs {
-  background-color: #b689ff;
+  background-color: #fff;
 }
 
 .jobs-flex {
@@ -554,7 +553,7 @@ section {
 }
 
 .contact {
-  background-color: #33D6AD;
+  background-color: #fff;
 }
 
 .contact .content {
@@ -615,8 +614,9 @@ section {
 }
 
 footer {
-  background: #0099CC;
+  background: #000;
   text-align: center;
+  color: #fff;
 }
 
 .footer-column {
